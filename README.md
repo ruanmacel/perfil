@@ -20,7 +20,7 @@ Tive meu primeiro contato com a programação na graduação de engenharia mecâ
 
 ## 📘 Habilidades
 [![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=4D4DFF)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=add8e6)](https://docs.github.com/)
+[![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=add8e6)](https://dart.dev/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
